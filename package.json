@@ -10,7 +10,7 @@
     "dependencies": {
         "@types/styled-components": "^5.1.2",
         "@types/yup": "^0.29.4",
-        "axios": "^0.19.2",
+        "axios": "^0.21.1",
         "formik": "^2.1.5",
         "inversify": "^5.0.1",
         "mobx": "^6.0.0",
